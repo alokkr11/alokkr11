@@ -1,6 +1,6 @@
 [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://alokkr11.github.io)
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<!-- <h3 align="center">A passionate Backend Developer</h3> -->
 <h3 align="center">An enthusiastic Java Backend Developer with some remarkable analytical skills, looking forward to start my career as a web-developer.</h3>
 <h3 align="center">“A successful website does three things:
 It attracts the right kinds of visitors.
