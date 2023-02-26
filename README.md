@@ -32,7 +32,7 @@ Collect Contact details for future ongoing relation.”</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alokkr11&count_private=true&show_icons=true&locale=en" alt="alokkr11" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkr11&theme=react&langs_count=8" alt="Rahul Kumar" height="260px" width="25%" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokkr11&count_private=true" alt="alokkr11" /></p>
 
