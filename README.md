@@ -14,7 +14,7 @@ Collect Contact details for future ongoing relation.”</h3>
 
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://alokkr11.github.io/)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, SpringBoot**
 
 - 📫 How to reach me **alokk0018@gmail.com**
 
