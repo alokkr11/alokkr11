@@ -12,7 +12,7 @@ Collect Contact details for future ongoing relation.”</h3>
 
 - 🌱 I’m currently learning **JAVA, Hibernate, Springboot, SQL**
 
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://alokkr11.github.io/)
+- 👨‍💻 All of my projects are available at [**My Portfolio**](alokkr11.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, SpringBoot**
 
